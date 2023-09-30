@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    margin: 0;
+}
+main{
+    display: flex;
+    height:  calc(100vh-37px);
+}
+#list{
+    background-color: blanchedalmond;
+    height: 100px;
+    flex: 3;
+}
+#form{ 
+    background-color: aqua;
+    height: 100px;
+    flex: 2;
+}
